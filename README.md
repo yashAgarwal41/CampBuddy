@@ -14,6 +14,12 @@ all details. Users are authenticated before sharing experiences.
 
 <br>
 
+![image](https://user-images.githubusercontent.com/72182045/194872302-3dd4e0db-6e67-4767-818b-a0cc2af24601.png)
+
+![image](https://user-images.githubusercontent.com/72182045/194872656-8f0df112-33f8-4965-a716-221e6737f863.png)
+
+![image](https://user-images.githubusercontent.com/72182045/194872945-1c4e0b00-be5c-4ed8-b6f6-f3201909dd47.png)
+
 <br>
 
 ### Installation:
